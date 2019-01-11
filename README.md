@@ -1,2 +1,2 @@
-# example-my-shop
+# my-shop
 
