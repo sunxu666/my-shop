@@ -57,6 +57,9 @@ public class TbUserServiceTest {
         tbUserService.update(tbUser);
     }
 
+    /**
+     * md5对应的字段打印出来
+     */
     @Test
     public void testMD5() {
         System.out.println(DigestUtils.md5DigestAsHex("123456".getBytes()));
