@@ -1,6 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-
+<%--body中导入的js和右上角点击触发的模态框--%>
 <div class="modal fade" id="modal-detail">
     <div class="modal-dialog">
         <div class="modal-content">
